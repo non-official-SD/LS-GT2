@@ -1,0 +1,10 @@
+INCLUDE(../../../../cmake/macros.cmake)
+
+SD_ADD_SUBDIRECTORY(ls2-bavaria-g3gtr)
+SD_ADD_SUBDIRECTORY(ls2-boxer-96rsr)
+SD_ADD_SUBDIRECTORY(ls2-cavallo-360r)
+SD_ADD_SUBDIRECTORY(ls2-condor-c400r)
+SD_ADD_SUBDIRECTORY(ls2-morley-r900)
+SD_ADD_SUBDIRECTORY(ls2-sprite-gts)
+SD_ADD_SUBDIRECTORY(ls2-vortex-gt)
+SD_ADD_SUBDIRECTORY(ls2-lynx-xkr)
